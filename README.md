@@ -69,6 +69,19 @@
 I’m also diving into **Data Lake** architectures and leveraging platforms such as **Google BigQuery** for scalable analytics, along with tools like **dbt** and **Kestra** for data modeling and ETL workflows. Additionally, I’m working with **Docker** and **Kubernetes** to deploy distributed, resilient solutions.
 
 
+### 🤝 Collaborations
+Here are some projects I've worked on together with classmates and friends:
+
+- 🚀 [Proyecto My Track Fit](https://github.com/santivalverde4/Proyecto_My_track-fit)  
+  A fitness tracking app integrating database management and mobile development features.
+
+- 💾 [Homework 3 DB](https://github.com/BraCR10/Homework3_DB)  
+  Designed and implemented database schemas and queries for advanced data management exercises.
+
+- 📚 [Homework 2 DB](https://github.com/BraCR10/Homework2_DB)  
+  Collaborated on SQL scripts and data normalization for academic database projects.
+
+
 ## 📊 Profile Statistics
 
  <div align=center>
