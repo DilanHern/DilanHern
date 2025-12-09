@@ -71,6 +71,11 @@ I’m also diving into **Data Lake architectures** on cloud platforms and levera
 
 ### 🤝 Collaborations
 Here are some projects I've worked on together with classmates and friends:
+- 🌐 [Data Environment](https://github.com/DilanHern/Data_Enviroment)  
+  End-to-end data engineering and business intelligence platform integrating PostgreSQL (Supabase), SQL Server, MySQL, MongoDB, and Neo4j into a centralized SQL Server Data Warehouse, with Python-based ETL pipelines, Apriori association rule mining, React frontends, Node.js APIs, and Power BI dashboards.
+
+- 🕹️ [Arkanoid](https://github.com/DilanHern/Arkanoid)  
+  Modern recreation of the classic Arkanoid arcade game built in C++ using Allegro 5, featuring single-player and two-player modes, power-ups, enemies, progressive levels, collision physics, audio support, fullscreen mode, statistics system, and resource management (images, sounds, and custom fonts).
 
 - 🚀 [Proyecto My Track Fit](https://github.com/santivalverde4/Proyecto_My_track-fit)  
   A fitness tracking app integrating database management and mobile development features.
@@ -81,6 +86,8 @@ Here are some projects I've worked on together with classmates and friends:
 - 📚 [Homework 2 DB](https://github.com/BraCR10/Homework2_DB)  
   Collaborated on SQL scripts and data normalization for academic database projects.
 
+- 🧩 [Futoshiki](https://github.com/DilanHern/futoshiki)  
+  Desktop puzzle game based on the Japanese Futoshiki logic game, built in Java with a Swing GUI, featuring customizable grid sizes, multiple difficulty levels, save/load functionality, timers, undo/redo system and Top 10 rankings.
 
 ## 📊 Profile Statistics
 
