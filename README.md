@@ -17,7 +17,7 @@
 
 ---
 - 🎓 I'm a Software Engineering student at the Instituto Tecnológico de Costa Rica (TEC) and I live in San José, Costa Rica.
-- 💬 Currently interested in specializing in blockchain and data engineering.
+- 💬 Currently interested in specializing in cloud computing and data engineering.
 - 🌱 I like going to the gym and read.
 
 ## 🛠 &nbsp;Tech Stack
@@ -64,9 +64,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🛠 &nbsp;My focus on technologies
-🧑‍💻 I’m currently focused on learning and deepening my knowledge in technologies related to **Blockchain** and **Data Engineering**. I’m exploring tools like **Solidity** for smart contract development, as well as modern data ecosystems including **Apache Kafka**, **Apache Spark**, **Hadoop**, and **Airflow** for large-scale data processing and orchestration.
+🧑‍💻 I’m currently focused on learning and deepening my knowledge in technologies related to **Cloud Computing** and **Data Engineering**. I’m exploring **AWS**, **Azure**, and **Google Cloud Platform** for scalable infrastructure and services, as well as modern data ecosystems including **Apache Kafka**, **Apache Spark**, **Hadoop**, and **Airflow** for large-scale data processing and orchestration.
 
-I’m also diving into **Data Lake** architectures and leveraging platforms such as **Google BigQuery** for scalable analytics, along with tools like **dbt** and **Kestra** for data modeling and ETL workflows. Additionally, I’m working with **Docker** and **Kubernetes** to deploy distributed, resilient solutions.
+I’m also diving into **Data Lake architectures** on cloud platforms and leveraging services such as **Google BigQuery, Amazon Redshift, and Snowflake** for scalable analytics, along with tools like **dbt and Kestra** for data modeling and ETL workflows. Additionally, I’m working with **Docker and Kubernetes** to deploy distributed, resilient solutions in cloud environments.
 
 
 ### 🤝 Collaborations
