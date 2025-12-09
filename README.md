@@ -89,6 +89,15 @@ Here are some projects I've worked on together with classmates and friends:
 - 🧩 [Futoshiki](https://github.com/DilanHern/futoshiki)  
   Desktop puzzle game based on the Japanese Futoshiki logic game, built in Java with a Swing GUI, featuring customizable grid sizes, multiple difficulty levels, save/load functionality, timers, undo/redo system and Top 10 rankings.
 
+### Contributions / Social Impact Projects
+
+- **PIELS LEARN**
+  Educational platform focused on teaching **LESCO/LIBRAS**, designed to reduce communication gaps between deaf and hearing communities. I contributed to the development of **classroom modules and learning paths**, enabling student enrollment, lesson navigation, and structured course experiences.  
+  Built with **React + TypeScript (Vite, TailwindCSS, ShadCN, React Router)** for web and **Expo React Native (TypeScript, NativeWind, Expo Router, GlueStack UI)** for mobile.
+
+  🌐 Main platform: https://www.inclutec.org/  
+  🎓 Learning platform: https://piels-learn.vercel.app/
+
 ## 📊 Profile Statistics
 
  <div align=center>
